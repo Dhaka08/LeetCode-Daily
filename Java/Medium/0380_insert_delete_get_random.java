@@ -1,3 +1,4 @@
+import java.util.*;
 class RandomizedSet {
     List<Integer> list;
     HashMap<Integer,Integer> mp;

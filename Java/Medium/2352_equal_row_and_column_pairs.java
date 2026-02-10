@@ -1,3 +1,4 @@
+import java.util.*;
 class Solution {
     public int equalPairs(int[][] grid) {
         int n = grid.length;
